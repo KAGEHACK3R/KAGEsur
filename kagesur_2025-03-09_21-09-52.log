@@ -1,0 +1,3 @@
+2025-03-09 21:09:58,081 [INFO] analysis: Ressource NLTK téléchargée : stopwords
+2025-03-09 21:09:58,101 [INFO] analysis: Ressource NLTK téléchargée : averaged_perceptron_tagger
+2025-03-09 21:09:58,102 [ERROR] __main__: Erreur importation TextAnalyzer : cannot import name 'TextAnalyzer' from 'analysis' (c:\Users\guyka\Documents\KAGEsur\analysis.py). Vérifiez analysis.py.
